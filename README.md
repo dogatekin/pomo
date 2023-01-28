@@ -1,2 +1,3 @@
 # Pomo
-Simple custom pomodoro web app.
+
+Minimalistic Pomodoro timer.
